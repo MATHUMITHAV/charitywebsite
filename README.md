@@ -8,5 +8,8 @@
  <li>Create your own temporary / sandbox/testing accounts with 3rd party for integrations.</li>
  <li>Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.</li>
  <br>
- <br><a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a>
+ <br>
+ I hosted this webswite in 000webhost
+ <b>Website Link:<b><a href="https://charitywebsitedemogrip2021.000webhostapp.com/">here<a>
+ <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a>
 
