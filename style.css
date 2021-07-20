@@ -1,0 +1,37 @@
+a, button { transition: all 0.3s ease; }
+
+.menu {display: none}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  body, html {height: 100%}
+  .bgimg {
+    background-image: url('images/bg-image.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    opacity: .9;
+  }
+
+
+  p{
+    color: white;
+    font-weight: lighter;
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: small-caps;
+  }
+
+ 
+  
+
