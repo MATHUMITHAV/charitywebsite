@@ -17,7 +17,7 @@
  <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a><br><br>
     
     <h3>FOLLOW:</h3>
-    <li><a href="https://www.linkedin.com/in/mathu-mitha-0541421b1">LinkedIn</a>
+<li><a href="https://www.linkedin.com/in/mathu-mitha-0541421b1">LinkedIn</a>
 <li><a href="https://www.instagram.com/shruthi_mathu/hik">Instagram</a>
 <li><a
 href=
