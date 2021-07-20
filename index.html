@@ -13,9 +13,9 @@
 <div class="w3-top w3-hide-small">
   <div class="w3-bar w3-xlarge w3-black w3-opacity w3-hover-opacity-off" id="myNavbar">
     <a href="#" class="w3-bar-item w3-button">HOME</a>
-    <a href="#" class="w3-bar-item w3-button">ABOUT</a>
+    <a href="https://www.thesparksfoundationsingapore.org/" class="w3-bar-item w3-button">ABOUT</a>
     <a onclick="document.getElementById('donate').style.display='block'" class="w3-bar-item w3-button">DONATE</a>
-    <a onclick="document.getElementById('contact').style.display='block'" class="w3-bar-item w3-button">JOIN</a>
+    <a onclick="document.getElementById('join').style.display='block'" class="w3-bar-item w3-button">JOIN</a>
     <a href="https://www.thesparksfoundationsingapore.org/" class="w3-display-topright w3-center,w3-bar-item w3-button">THE SPARKS FOUNDATION</a>
   </div>
 </div>
@@ -35,6 +35,7 @@
       <h1>DONATE</h1>
     </div>
     <div class="w3-container">
+      <h4>Deeds of giving are the very foundations of the world.</h4>
       <form action="http://localhost/charity/donate.php" target="_blank" method="POST">
         <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="name"></p>
         <p><input class="w3-input w3-padding-16 w3-border" type="email" placeholder="Mail" required name="mail"></p>
@@ -51,11 +52,12 @@
 <div id="join" class="w3-modal">
   <div class="w3-modal-content w3-animate-zoom">
     <div class="w3-container w3-black">
-      <span onclick="document.getElementById('contact').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <span onclick="document.getElementById('join').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
       <h1>Join</h1>
     </div>
     <div class="w3-container">
-     
+      <p color="w3-black">
+        <h4>Volunteers are not paid --not because they are worthless, but they are priceless.</h4>
       <form action="http://localhost/charity/connect.php" target="_blank" method="POST">
         <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="name"></p>
         <p><input class="w3-input w3-padding-16 w3-border" type="number" placeholder="How many volunteer" required name="volunteer"></p>
