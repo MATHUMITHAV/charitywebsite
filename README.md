@@ -7,5 +7,8 @@
  <li>On any page / email, only basic information is needed.</li>
  <li>Create your own temporary / sandbox/testing accounts with 3rd party for integrations.</li>
  <li>Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.</li>
+ 
+ 
+ 
 <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a>
 
