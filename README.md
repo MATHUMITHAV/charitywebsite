@@ -10,11 +10,10 @@
  <br>
  <br>
  I hosted this webswite in 000webhost<br>
- 
  <h3> <b>Website Link:<b><a href="https://charitywebsitedemogrip2021.000webhostapp.com/">here<a></h3>
-  <h3> <b>Youtube Link:<b><a href="">here<a></h3>
-   <h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
- <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a><br><br>
+<h3> <b>Youtube Link:<b><a href="">here<a></h3>
+<h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
+<a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a><br><br>
     
 <h3>FOLLOW:</h3>
 <li><a href="https://www.linkedin.com/in/mathu-mitha-0541421b1">LinkedIn</a>
