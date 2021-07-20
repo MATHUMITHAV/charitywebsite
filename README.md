@@ -9,8 +9,10 @@
  <li>Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.</li>
  <br>
  <br>
- I hosted this webswite in 000webhost<br><br>
+ I hosted this webswite in 000webhost<br>
  
  <h3> <b>Website Link:<b><a href="https://charitywebsitedemogrip2021.000webhostapp.com/">here<a></h3>
+  <h3> <b>Youtube Link:<b><a href="">here<a></h3>
+   <h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
  <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a>
 
