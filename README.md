@@ -11,8 +11,8 @@
  <br>
  I hosted this webswite in 000webhost<br><br>
 <b>Website Link:<b><a href="https://charitywebsitedemogrip2021.000webhostapp.com/">here<a><br><br><br>
-<b>Youtube Link:<b><a href="">here<a><br><br><br>
-<b>Linkedin Post:<b><a href="">here<a><br><br><br>
+<b>Youtube Link:<b><a href="https://youtu.be/fSle36acePc">here<a><br><br><br>
+<b>Linkedin Post:<b><a href="https://www.linkedin.com/posts/mathu-mitha-0541421b1_gripjuly2021-github-intern-activity-6823437466234699776-u0Kf">here<a><br><br><br>
 <a href="https://charitywebsitedemogrip2021.000webhostapp.com/"><img src="screenshot.png"> </a><br><br>
     
 <h3>FOLLOW:</h3>
